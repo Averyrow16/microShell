@@ -1,4 +1,4 @@
-# pracShell
+# microShell
 
 A simple Unix shell implementation in C created to learn more about how shells work and to practice my skills in C, hence the name pracShell. 
 
